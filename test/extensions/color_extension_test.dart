@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/extensions/color_extension.dart';
+import 'package:appflowy_editor_ce/src/extensions/color_extension.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

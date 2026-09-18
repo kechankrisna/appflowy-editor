@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:appflowy_editor/src/editor/editor_component/service/ime/non_delta_input_service.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/ime/non_delta_input_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';

@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 /// Anchors a comment to a position in the document.
 ///

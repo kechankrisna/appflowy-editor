@@ -1,6 +1,6 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/ime/delta_input_on_floating_cursor_update.dart';
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/ime/delta_input_on_floating_cursor_update.dart';
+import 'package:appflowy_editor_ce/src/editor/util/platform_extension.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

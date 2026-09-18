@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/infra/clipboard.dart';
+import 'package:appflowy_editor_ce/src/infra/clipboard.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

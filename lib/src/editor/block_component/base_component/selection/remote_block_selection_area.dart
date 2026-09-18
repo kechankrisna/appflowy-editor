@@ -1,6 +1,6 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/block_component/base_component/selection/selection_area_painter.dart';
-import 'package:appflowy_editor/src/render/selection/cursor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/block_component/base_component/selection/selection_area_painter.dart';
+import 'package:appflowy_editor_ce/src/render/selection/cursor.dart';
 import 'package:collection/collection.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

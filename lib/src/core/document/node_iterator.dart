@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/src/core/document/document.dart';
-import 'package:appflowy_editor/src/core/document/node.dart';
+import 'package:appflowy_editor_ce/src/core/document/document.dart';
+import 'package:appflowy_editor_ce/src/core/document/node.dart';
 
 /// [NodeIterator] is used to traverse the nodes in visual order.
 class NodeIterator implements Iterator<Node> {

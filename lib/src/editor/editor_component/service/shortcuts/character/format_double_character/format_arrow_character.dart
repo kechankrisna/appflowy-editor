@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/shortcuts/character_shortcut_events/format_double_characters/utils.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/shortcuts/character_shortcut_events/format_double_characters/utils.dart';
 
 const _greater = '>';
 const _equals = '=';

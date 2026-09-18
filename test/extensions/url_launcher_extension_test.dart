@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/extensions/url_launcher_extension.dart';
+import 'package:appflowy_editor_ce/src/extensions/url_launcher_extension.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

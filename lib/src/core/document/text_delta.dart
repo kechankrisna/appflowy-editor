@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 import 'package:collection/collection.dart';
 import 'package:diff_match_patch/diff_match_patch.dart' as diff_match_patch;
 import 'package:flutter/foundation.dart';

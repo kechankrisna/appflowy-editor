@@ -1,13 +1,13 @@
 import 'dart:async';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/selection/mobile_magnifier.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/selection/shared.dart';
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
-import 'package:appflowy_editor/src/render/selection/mobile_basic_handle.dart';
-import 'package:appflowy_editor/src/render/selection/mobile_collapsed_handle.dart';
-import 'package:appflowy_editor/src/render/selection/mobile_selection_handle.dart';
-import 'package:appflowy_editor/src/service/selection/mobile_selection_gesture.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/selection/mobile_magnifier.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/selection/shared.dart';
+import 'package:appflowy_editor_ce/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_ce/src/render/selection/mobile_basic_handle.dart';
+import 'package:appflowy_editor_ce/src/render/selection/mobile_collapsed_handle.dart';
+import 'package:appflowy_editor_ce/src/render/selection/mobile_selection_handle.dart';
+import 'package:appflowy_editor_ce/src/service/selection/mobile_selection_gesture.dart';
 import 'package:flutter/material.dart' hide Overlay, OverlayEntry;
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';

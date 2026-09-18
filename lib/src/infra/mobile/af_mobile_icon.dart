@@ -58,7 +58,7 @@ class AFMobileIcon extends StatelessWidget {
       fit: BoxFit.fill,
       height: size,
       width: size,
-      package: 'appflowy_editor',
+      package: 'appflowy_editor_ce',
     );
   }
 }

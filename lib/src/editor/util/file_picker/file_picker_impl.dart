@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:appflowy_editor/src/editor/util/file_picker/file_picker_service.dart';
+import 'package:appflowy_editor_ce/src/editor/util/file_picker/file_picker_service.dart';
 import 'package:file_picker/file_picker.dart' as fp;
 
 class FilePicker implements FilePickerService {

@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/editor_component/service/scroll/auto_scroller.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/scroll/auto_scroller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

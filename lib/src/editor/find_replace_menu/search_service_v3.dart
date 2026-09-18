@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/find_replace_menu/search_algorithm.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/find_replace_menu/search_algorithm.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 

@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 /// If [prefixCharacter] is null or empty, [character] is used
 Future<bool> handleDoubleCharacterReplacement({

@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 import 'package:example/pages/drag_to_reorder_editor.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

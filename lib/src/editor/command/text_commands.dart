@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 extension TextTransforms on EditorState {
   /// Inserts a new line at the given position.

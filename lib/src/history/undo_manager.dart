@@ -1,10 +1,10 @@
 import 'dart:collection';
 
-import 'package:appflowy_editor/src/core/location/selection.dart';
-import 'package:appflowy_editor/src/core/transform/operation.dart';
-import 'package:appflowy_editor/src/core/transform/transaction.dart';
-import 'package:appflowy_editor/src/editor_state.dart';
-import 'package:appflowy_editor/src/infra/log.dart';
+import 'package:appflowy_editor_ce/src/core/location/selection.dart';
+import 'package:appflowy_editor_ce/src/core/transform/operation.dart';
+import 'package:appflowy_editor_ce/src/core/transform/transaction.dart';
+import 'package:appflowy_editor_ce/src/editor_state.dart';
+import 'package:appflowy_editor_ce/src/infra/log.dart';
 
 /// Describes the origin of a transaction for undo/redo recording.
 enum TransactionSource {

@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/toolbar/mobile/mobile_toolbar_style.dart';
+import 'package:appflowy_editor_ce/src/editor/toolbar/mobile/mobile_toolbar_style.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

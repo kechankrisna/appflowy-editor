@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/util/platform_extension.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

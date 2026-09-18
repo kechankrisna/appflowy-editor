@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/editor_component/service/renderer/block_component_action.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/renderer/block_component_action.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../../test_helper.dart';

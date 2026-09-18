@@ -86,7 +86,7 @@ class PropertyValueNotifier<T> implements ValueListenable<T> {
             FlutterErrorDetails(
               exception: exception,
               stack: stack,
-              library: 'appflowy_editor',
+              library: 'appflowy_editor_ce',
               context: ErrorDescription(
                 'while dispatching notifications for $runtimeType',
               ),

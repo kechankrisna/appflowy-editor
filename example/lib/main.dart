@@ -1,6 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor_sync_plugin/appflowy_editor_sync_utility_functions.dart'
-    if (dart.library.html) 'package:example/sync_plugin_stub.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 import 'package:example/home_page.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -16,9 +14,6 @@ void main() async {
       const SystemUiOverlayStyle(systemNavigationBarColor: Colors.transparent),
     );
   }
-  // Important for Offline Collaboration
-  await AppflowyEditorSyncUtilityFunctions.initAppFlowyEditorSync();
-
   runApp(const MyApp());
 }
 

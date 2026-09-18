@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/util/link_util.dart';
+import 'package:appflowy_editor_ce/src/editor/util/link_util.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() async {

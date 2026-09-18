@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/history/undo_manager.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/history/undo_manager.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() async {

@@ -8,7 +8,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:appflowy_editor/src/flutter/scrollable_positioned_list/scrollable_positioned_list.dart';
+import 'package:appflowy_editor_ce/src/flutter/scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:collection/collection.dart' show IterableExtension;
 import 'package:flutter/scheduler.dart';
 import 'package:flutter/widgets.dart';

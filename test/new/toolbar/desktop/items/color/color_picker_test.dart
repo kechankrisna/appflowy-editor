@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/toolbar/desktop/items/color/color_picker.dart';
+import 'package:appflowy_editor_ce/src/editor/toolbar/desktop/items/color/color_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

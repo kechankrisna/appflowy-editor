@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/flutter/overlay.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/flutter/overlay.dart';
 import 'package:flutter/material.dart' hide Overlay, OverlayEntry;
 import 'package:provider/provider.dart';
 

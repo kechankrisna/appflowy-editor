@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 import 'package:flutter/foundation.dart';
 
 typedef Path = List<int>;

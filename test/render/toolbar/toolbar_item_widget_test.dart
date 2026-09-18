@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/src/render/toolbar/toolbar_item.dart';
-import 'package:appflowy_editor/src/render/toolbar/toolbar_item_widget.dart';
+import 'package:appflowy_editor_ce/src/render/toolbar/toolbar_item.dart';
+import 'package:appflowy_editor_ce/src/render/toolbar/toolbar_item_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 // We currently have only one format style is triggered by double characters.
 // **abc** or __abc__ -> bold abc

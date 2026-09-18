@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/block_component/table_block_component/table_action_menu.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/block_component/table_block_component/table_action_menu.dart';
 import 'package:flutter/material.dart';
 
 class TableActionHandler extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 /// Collects all comment-ids from the delta operations that overlap
 /// with [normalizedSelection] in the editor.

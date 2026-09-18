@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/core/document/path.dart';
+import 'package:appflowy_editor_ce/src/core/document/path.dart';
 
 class Position {
   Position({

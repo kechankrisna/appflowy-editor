@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 /// A [Delta] encoder that encodes a [Delta] to Markdown.
 ///

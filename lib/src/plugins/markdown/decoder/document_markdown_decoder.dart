@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/plugins/markdown/decoder/custom_syntaxes/underline_syntax.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/plugins/markdown/decoder/custom_syntaxes/underline_syntax.dart';
 import 'package:collection/collection.dart';
 import 'package:markdown/markdown.dart' as md;
 

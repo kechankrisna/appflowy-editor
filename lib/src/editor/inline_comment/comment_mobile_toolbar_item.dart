@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/inline_comment/comment_utils.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/inline_comment/comment_utils.dart';
 import 'package:flutter/material.dart';
 
 /// Returns a [MobileToolbarItem] that adds an inline comment to the current

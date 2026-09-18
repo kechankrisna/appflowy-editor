@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/block_component/heading_block_component/heading_command_shortcut.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/block_component/heading_block_component/heading_command_shortcut.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../util/util.dart';

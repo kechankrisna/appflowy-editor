@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/util/property_notifier.dart';
+import 'package:appflowy_editor_ce/src/editor/util/property_notifier.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 

@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_ce/src/editor/util/platform_extension.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 

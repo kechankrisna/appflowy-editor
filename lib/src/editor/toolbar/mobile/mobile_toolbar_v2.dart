@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/toolbar/mobile/utils/keyboard_height_observer.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
+import 'package:appflowy_editor_ce/src/editor/toolbar/mobile/utils/keyboard_height_observer.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 

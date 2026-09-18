@@ -1,10 +1,10 @@
 import 'dart:collection';
 
-import 'package:appflowy_editor/src/core/document/node.dart';
+import 'package:appflowy_editor_ce/src/core/document/node.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:appflowy_editor/src/core/transform/operation.dart';
-import 'package:appflowy_editor/src/editor_state.dart';
-import 'package:appflowy_editor/src/core/document/document.dart';
+import 'package:appflowy_editor_ce/src/core/transform/operation.dart';
+import 'package:appflowy_editor_ce/src/editor_state.dart';
+import 'package:appflowy_editor_ce/src/core/document/document.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

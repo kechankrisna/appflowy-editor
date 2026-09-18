@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/editor/editor_component/service/ime/text_diff.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/ime/text_diff.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 

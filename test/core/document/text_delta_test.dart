@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/src/core/document/attributes.dart';
-import 'package:appflowy_editor/src/core/document/text_delta.dart';
+import 'package:appflowy_editor_ce/src/core/document/attributes.dart';
+import 'package:appflowy_editor_ce/src/core/document/text_delta.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

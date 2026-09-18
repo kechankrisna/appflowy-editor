@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/infra/log.dart';
+import 'package:appflowy_editor_ce/src/infra/log.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../new/infra/testable_editor.dart';

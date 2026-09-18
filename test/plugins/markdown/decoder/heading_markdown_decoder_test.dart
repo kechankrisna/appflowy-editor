@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/src/plugins/markdown/decoder/document_markdown_decoder.dart';
-import 'package:appflowy_editor/src/plugins/markdown/decoder/parser/markdown_heading_parser.dart';
+import 'package:appflowy_editor_ce/src/plugins/markdown/decoder/document_markdown_decoder.dart';
+import 'package:appflowy_editor_ce/src/plugins/markdown/decoder/parser/markdown_heading_parser.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() async {

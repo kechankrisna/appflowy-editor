@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 
 extension EditorStateSelectable on EditorState {
   (Node, BlockComponentSelectable)? getFirstSelectable() {

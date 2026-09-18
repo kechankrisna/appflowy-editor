@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:appflowy_editor/src/service/shortcut_event/shortcut_event_handler.dart';
+import 'package:appflowy_editor_ce/src/service/shortcut_event/shortcut_event_handler.dart';
 
 ShortcutEventHandler pageUpHandler = (editorState, _) {
   final scrollHeight = editorState.service.scrollService?.onePageHeight;

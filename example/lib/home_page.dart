@@ -3,12 +3,11 @@ import 'dart:convert';
 import 'dart:io' if (dart.library.html) 'package:example/file_io_stub.dart';
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 import 'package:example/pages/animated_markdown_page.dart';
 import 'package:example/pages/auto_complete_editor.dart';
 import 'package:example/pages/auto_expand_editor.dart';
 import 'package:example/pages/collab_editor.dart';
-import 'package:example/pages/collab_editor_offline.dart';
 import 'package:example/pages/collab_selection_editor.dart';
 import 'package:example/pages/customize_theme_for_editor.dart';
 import 'package:example/pages/drag_to_reorder_editor.dart';
@@ -17,7 +16,6 @@ import 'package:example/pages/editor_list.dart';
 import 'package:example/pages/fixed_toolbar_editor.dart';
 import 'package:example/pages/focus_example_for_editor.dart';
 import 'package:example/pages/inline_comment_editor.dart';
-import 'package:example/pages/markdown_editor.dart';
 import 'package:example/pages/ten_thousand_links_showcase.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/foundation.dart';
@@ -181,14 +179,6 @@ class _HomePageState extends State<HomePage> {
               ),
             );
           }),
-          _buildListTile(context, 'Markdown Editor', () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder: (context) => const MarkdownEditor(),
-              ),
-            );
-          }),
           _buildListTile(context, 'Animated Markdown Editor', () {
             Navigator.push(
               context,
@@ -218,14 +208,6 @@ class _HomePageState extends State<HomePage> {
               context,
               MaterialPageRoute(
                 builder: (context) => const CollabSelectionEditor(),
-              ),
-            );
-          }),
-          _buildListTile(context, 'Collab Offline', () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder: (context) => const CollabEditorOffline(),
               ),
             );
           }),

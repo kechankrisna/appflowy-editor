@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_ce/appflowy_editor_ce.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';
@@ -52,7 +52,7 @@ class EditorSvg extends StatelessWidget {
         fit: BoxFit.fill,
         height: height,
         width: width,
-        package: 'appflowy_editor',
+        package: 'appflowy_editor_ce',
       );
     } else if (number != null) {
       final numberText =

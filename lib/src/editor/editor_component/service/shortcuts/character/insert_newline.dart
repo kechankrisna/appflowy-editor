@@ -1,6 +1,6 @@
-import 'package:appflowy_editor/src/editor/command/transform.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/shortcuts/character_shortcut_event.dart';
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_ce/src/editor/command/transform.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/shortcuts/character_shortcut_event.dart';
+import 'package:appflowy_editor_ce/src/editor/util/platform_extension.dart';
 import 'package:flutter/services.dart';
 
 /// insert a new line block

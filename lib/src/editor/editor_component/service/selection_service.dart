@@ -1,7 +1,7 @@
-import 'package:appflowy_editor/src/core/document/node.dart';
-import 'package:appflowy_editor/src/core/location/position.dart';
-import 'package:appflowy_editor/src/core/location/selection.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/selection/mobile_selection_service.dart';
+import 'package:appflowy_editor_ce/src/core/document/node.dart';
+import 'package:appflowy_editor_ce/src/core/location/position.dart';
+import 'package:appflowy_editor_ce/src/core/location/selection.dart';
+import 'package:appflowy_editor_ce/src/editor/editor_component/service/selection/mobile_selection_service.dart';
 import 'package:flutter/material.dart' hide Overlay, OverlayEntry;
 
 class DragAreaBuilderData {
