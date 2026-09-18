@@ -1,4 +1,4 @@
-import 'package:pdf/pdf.dart';
+import 'package:pdf_ce/pdf.dart';
 
 extension ColorExt on PdfColor {
   static PdfColor? fromRgbaString(String colorString) {

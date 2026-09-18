@@ -7,8 +7,8 @@ import 'package:html/dom.dart' as dom;
 import 'package:html/parser.dart' show parse;
 import 'package:http/http.dart';
 import 'package:markdown/markdown.dart' as md;
-import 'package:pdf/pdf.dart' as pdf;
-import 'package:pdf/widgets.dart' as pw;
+import 'package:pdf_ce/pdf.dart' as pdf;
+import 'package:pdf_ce/widgets.dart' as pw;
 
 import 'extension/color_ext.dart';
 
