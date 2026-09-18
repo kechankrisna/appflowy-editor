@@ -1,3 +1,6 @@
+## 6.1.2
+* chore: replace `pdf`/`printing` dependencies with the `pdf_ce`/`printing_ce` forks to resolve a `barcode`/`qr` version conflict in the example app.
+
 ## 6.1.1
 * Renamed the package to `appflowy_editor_ce` to publish independently of the upstream `appflowy_editor` name.
 * chore: upgrade to Flutter 3.47.4 / Dart >=3.12.0
