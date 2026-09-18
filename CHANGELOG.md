@@ -1,3 +1,11 @@
+## 6.1.1
+* Renamed the package to `appflowy_editor_ce` to publish independently of the upstream `appflowy_editor` name.
+* chore: upgrade to Flutter 3.47.4 / Dart >=3.12.0
+* chore: upgrade device_info_plus, file_picker, keyboard_height_plugin to latest major versions
+* fix: prevent remote updates from scrolling local viewport
+* fix: detach shrink-wrapped editor listeners on dispose
+* fix: don't leak HTML comment content into pasted paragraph text
+
 ## 6.1.0
 * fix: unable to input text on windows desktop by @imaachman in https://github.com/AppFlowy-IO/appflowy-editor/pull/1126
 * feat: open html decoder for custom parser by @richardshiue in https://github.com/AppFlowy-IO/appflowy-editor/pull/1145
